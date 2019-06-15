@@ -1,5 +1,5 @@
 {
-  "name": "vpub-bitcore-message",
+  "name": "vircle-bitcore-message",
   "version": "1.0.3",
   "description": "Vpub Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "vpub",
+    "vircle",
     "bitcore",
     "btc",
     "satoshi",
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vpubchain/vpub-bitcore-message.git"
+    "url": "https://github.com/vpubchain/vircle-bitcore-message.git"
   },
   "dependencies": {
-    "vpub-bitcore-lib": "git://github.com/vpubchain/vpub-bitcore-lib"
+    "vircle-bitcore-lib": "git://github.com/vpubchain/vircle-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
