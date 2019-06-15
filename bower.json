@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/vpubchain/vpub-bitcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Vpub Message Verification and Signing for Vpub",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "vpub",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
